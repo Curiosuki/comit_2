@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Clima-Flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Flutter-Course-Resources" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bitcoin-ticker-flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/destini-challenge-starting" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dicee-flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flash-chat-flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flutter-firestore-training" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flutter_starbucks2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/magic-8-ball-flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/preferenceapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/quizzler-flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xylophone-flutter" vcs="Git" />
+  </component>
+</project>

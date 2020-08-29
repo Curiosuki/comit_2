@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "511852044367",
+    "firebase_url": "https://fir-auth-9bb61.firebaseio.com",
+    "project_id": "fir-auth-9bb61",
+    "storage_bucket": "fir-auth-9bb61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511852044367:android:eca4f2d913c69189db0a3a",
+        "android_client_info": {
+          "package_name": "com.example.codingpapa_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511852044367-oogrrgj2at6hdfrpat7pdhjvn9vh7o9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkTIDi-uqtH0x7jVLI3Zr5txsvzJsvgs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511852044367-oogrrgj2at6hdfrpat7pdhjvn9vh7o9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "548486107622",
+    "firebase_url": "https://bungzombi-49a60.firebaseio.com",
+    "project_id": "bungzombi-49a60",
+    "storage_bucket": "bungzombi-49a60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548486107622:android:0f3a53f5f54725c5d98627",
+        "android_client_info": {
+          "package_name": "com.example.instagramclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548486107622-carhgm4f5qnrnj97qhr1hsjsivlv5fft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.instagramclone",
+            "certificate_hash": "09e0e5a69020fcb17427f9b0c6cef2d0d3c18f94"
+          }
+        },
+        {
+          "client_id": "548486107622-dnjdibuhu9cvllpsdamd1m9acev65s4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ8CD-1BOFX6FwJlD-bwj8eRuiTAUl5Bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548486107622-dnjdibuhu9cvllpsdamd1m9acev65s4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
